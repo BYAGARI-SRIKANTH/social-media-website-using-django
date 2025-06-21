@@ -1,0 +1,70 @@
+{% extends "blog/base.html" %}
+
+{% block title %}About Our Social Network{% endblock %}
+
+{% block content %}
+
+<div class="col-md-8 m-auto">
+    <div class="content-section">
+        <div class="text-center mb-5">
+            <h1>About Our Community</h1>
+            <p class="lead">Connecting people through shared experiences</p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h3><i class="fas fa-rocket mr-2"></i>Our Story</h3>
+                <p>This social network was created by Srikanth Byagari as a passion project to bring people together. 
+                What started as a simple idea has grown into a vibrant community where users can share thoughts, 
+                connect with friends, and discover new content.</p>
+                
+                <h3 class="mt-4"><i class="fas fa-code mr-2"></i>Technology Stack</h3>
+                <ul class="list-unstyled">
+                    <li><i class="fas fa-check-circle text-success mr-2"></i>Django - Backend Framework</li>
+                    <li><i class="fas fa-check-circle text-success mr-2"></i>Bootstrap - Frontend Design</li>
+                    <li><i class="fas fa-check-circle text-success mr-2"></i>PostgreSQL - Database</li>
+                    <li><i class="fas fa-check-circle text-success mr-2"></i>Channels - Real-time features</li>
+                </ul>
+            </div>
+            
+            <div class="col-md-6">
+                <h3><i class="fas fa-star mr-2"></i>Features</h3>
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Connect with Friends</h5>
+                        <p class="card-text">Find and follow other users, build your network</p>
+                    </div>
+                </div>
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Share Your Thoughts</h5>
+                        <p class="card-text">Post updates, photos, and engage with content</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Real-time Chat</h5>
+                        <p class="card-text">Message friends instantly with our chat system</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-5 text-center">
+            <h3><i class="fas fa-heart mr-2"></i>Join Our Community</h3>
+            <p>We're constantly improving and adding new features. Be part of our growing network!</p>
+            <a href="{% url 'register' %}" class="btn btn-primary btn-lg mt-3">Sign Up Now</a>
+        </div>
+
+        <div class="mt-5 pt-4 border-top text-center">
+            <p>Created with <i class="fas fa-heart text-danger"></i> by Srikanth Byagari</p>
+            <div class="social-links mt-2">
+                <a href="#" class="text-dark mr-3"><i class="fab fa-github fa-2x"></i></a>
+                <a href="#" class="text-dark mr-3"><i class="fab fa-linkedin fa-2x"></i></a>
+                <a href="#" class="text-dark"><i class="fab fa-twitter fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
