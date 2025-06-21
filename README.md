@@ -7,12 +7,12 @@ A social media web-application with Django.
 <div align="center">
 
   <img src="https://github.com/BYAGARI-SRIKANTH/social-media-website-using-django/blob/main/photos/photo1.png" alt="Photo 1" width="30%" style="margin: 10px;" />
-  <img src="photos/photo2.jpg" alt="Photo 2" width="30%" style="margin: 10px;" />
-  <img src="photos/photo3.jpg" alt="Photo 3" width="30%" style="margin: 10px;" />
+  <img src="https://github.com/BYAGARI-SRIKANTH/social-media-website-using-django/blob/main/photos/photo3.png" alt="Photo 2" width="30%" style="margin: 10px;" />
+  <img src="https://github.com/BYAGARI-SRIKANTH/social-media-website-using-django/blob/main/photos/photo4.png" alt="Photo 3" width="30%" style="margin: 10px;" />
 
   <br />
 
-  <img src="photos/photo4.jpg" alt="Photo 4" width="30%" style="margin: 10px;" />
+  <img src="https://github.com/BYAGARI-SRIKANTH/social-media-website-using-django/blob/main/photos/photo5.png" alt="Photo 4" width="30%" style="margin: 10px;" />
   <img src="photos/photo5.jpg" alt="Photo 5" width="30%" style="margin: 10px;" />
 
 </div>
