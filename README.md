@@ -6,7 +6,7 @@ A social media web-application with Django.
 
 <div align="center">
 
-  <img src="photos/photo1.jpg" alt="Photo 1" width="30%" style="margin: 10px;" />
+  <img src="https://github.com/BYAGARI-SRIKANTH/social-media-website-using-django/blob/main/photos/photo1.png" alt="Photo 1" width="30%" style="margin: 10px;" />
   <img src="photos/photo2.jpg" alt="Photo 2" width="30%" style="margin: 10px;" />
   <img src="photos/photo3.jpg" alt="Photo 3" width="30%" style="margin: 10px;" />
 
