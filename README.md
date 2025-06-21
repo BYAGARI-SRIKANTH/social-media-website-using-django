@@ -2,6 +2,22 @@
 
 A social media web-application with Django.
 
+<h2>📷 Images of the Website</h2>
+
+<div align="center">
+
+  <img src="photos/photo1.jpg" alt="Photo 1" width="30%" style="margin: 10px;" />
+  <img src="photos/photo2.jpg" alt="Photo 2" width="30%" style="margin: 10px;" />
+  <img src="photos/photo3.jpg" alt="Photo 3" width="30%" style="margin: 10px;" />
+
+  <br />
+
+  <img src="photos/photo4.jpg" alt="Photo 4" width="30%" style="margin: 10px;" />
+  <img src="photos/photo5.jpg" alt="Photo 5" width="30%" style="margin: 10px;" />
+
+</div>
+
+
 ## Features :
 
 <li>Sign Up, Login, OAuth 2.0(Google, Github), Logout, Forgot Password</li>
