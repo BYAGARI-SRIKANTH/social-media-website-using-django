@@ -13,7 +13,6 @@ A social media web-application with Django.
   <br />
 
   <img src="https://github.com/BYAGARI-SRIKANTH/social-media-website-using-django/blob/main/photos/photo5.png" alt="Photo 4" width="30%" style="margin: 10px;" />
-  <img src="photos/photo5.jpg" alt="Photo 5" width="30%" style="margin: 10px;" />
 
 </div>
 
